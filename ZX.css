@@ -1,0 +1,70 @@
+
+.position {
+    width: 500px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-right: 800px;
+    background-color: rgb(29, 29, 29);
+    border-radius: 100px;
+    display: inline-block;
+}
+
+.positionUI {
+    margin-top: 65px;
+    margin-left: 65px;
+}
+
+.A {
+    width: 220px;
+    height: 220px;
+    margin-left: 40px;
+    background-color: coral;
+    box-shadow: 0 0 20px red;
+    border-radius: 500px;
+    position: fixed;
+}
+
+.B {
+    width: 140px;
+    height: 140px;
+    margin-top: 190px;
+    margin-left: 230px;
+    background-color: rgb(206, 31, 212);
+    box-shadow: 0 0 20px rgb(234, 0, 255);
+    border-radius: 500px;
+    position: fixed;
+}
+
+.C {
+    width: 100px;
+    height: 100px;
+    margin-top: 230px;
+    background-color: rgb(80, 255, 255);
+    box-shadow: 0 0 20px rgb(0, 140, 255);
+    border-radius: 500px;
+    position: fixed;
+}
+
+.D {
+    width: 20px;
+    height: 20px;
+    margin-top: 300px;
+    margin-left: 150px;
+    background-color: rgb(240, 15, 27);
+    box-shadow: 0 0 20px rgb(255, 88, 88);
+    border-radius: 500px;
+    position: fixed;
+}
+
+.F {
+    width: 20px;
+    height: 20px;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-bottom: 60px;
+    background-color: rgb(39, 36, 197);
+    box-shadow: 0 0 20px rgb(0, 162, 255);
+    border-radius: 500px;
+    position: fixed;
+}
